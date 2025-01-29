@@ -39,5 +39,7 @@ public class Input {
         System.out.println("Age:"+uAge);
         System.out.println("Weight:"+uWeight);
         System.out.println("Smoker:"+smoker);
+
+        scanner.close();
     }
 }
